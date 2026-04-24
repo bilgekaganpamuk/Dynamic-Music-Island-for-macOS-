@@ -2,8 +2,12 @@
 
 A sleek, floating Dynamic Island-style music widget for macOS that displays currently playing music from any app (Spotify, Apple Music, etc.).
 
-![Preview](preview.png)
-
+<div align="center">
+  <img src="Screenshot1.png" alt="Preview 1" width="600" />
+  <br/>
+  <img src="Screenshot2.png" alt="Preview 2" width="400" />
+  <img src="Screenshot3.png" alt="Preview 3" width="400" />
+</div>
 ## Features
 
 - **Floating Widget**: Always-on-top pill-shaped widget positioned at the top of your screen
