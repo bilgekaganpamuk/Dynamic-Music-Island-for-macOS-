@@ -8,6 +8,7 @@ A sleek, floating Dynamic Island-style music widget for macOS that displays curr
   <img src="Screenshot2.png" alt="Preview 2" width="400" />
   <img src="Screenshot3.png" alt="Preview 3" width="400" />
 </div>
+
 ## Features
 
 - **Floating Widget**: Always-on-top pill-shaped widget positioned at the top of your screen
@@ -16,6 +17,8 @@ A sleek, floating Dynamic Island-style music widget for macOS that displays curr
 - **Playback Controls**: Play/Pause, Previous, Next track
 - **Progress Bar**: Visual progress indicator for the current track
 - **Animated Sound Waves**: Visual feedback when music is playing
+- **File Stash / Drop Zone**: Drag and drop files onto the island to stash them temporarily
+- **AirDrop Integration**: Quickly share stashed files via AirDrop directly from the island
 - **Menu Bar Control**: Quick access via menu bar icon
 - **Drag to Reposition**: Move the island anywhere on screen
 
@@ -26,7 +29,7 @@ A sleek, floating Dynamic Island-style music widget for macOS that displays curr
 
 ## Installation
 
-1. Open `DynamicMusicIsland.xcodeproj` in Xcode
+1. Open the project inside the `ADADYNAMİC` folder (`ADADYNAMİC/DynamicMusicIsland.xcodeproj`) in Xcode
 2. Select your development team in Signing & Capabilities (optional for personal use)
 3. Build and run (⌘R)
 
@@ -43,6 +46,8 @@ When you first run the app, macOS may ask for permission to control other apps. 
 
 - **Click** the island to expand/collapse
 - **Drag** the island to reposition it
+- **Drag and Drop Files** onto the island to open the Stash/Drop Zone
+- Access the Drop Zone via the **folder icon** when hovering over the music info
 - Use the **menu bar icon** to show/hide the island
 - **Playback controls** appear in the expanded view
 
