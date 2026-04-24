@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>This app needs to access Spotify and Music to display and control your currently playing music.</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>This app displays and controls your music playback.</string>
+</dict>
+</plist>
